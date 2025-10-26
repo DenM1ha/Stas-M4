@@ -36,3 +36,7 @@ P {
 h2,h3,h4 {
     color: #000000;
 }
+
+footer img{
+   margin: 10px;
+}
