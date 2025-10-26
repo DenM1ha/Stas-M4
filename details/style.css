@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    background-color: #B41E1E;
+    color: white;
+    margin: 0;
+    text-align: center;
+}
+
+nav {
+    background-color: #000000;
+    justify-content: space-evenly;
+    border-bottom: 5px solid #838383;
+    border-top: 5px solid #838383;
+    display: flex;
+    padding: 20px;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: #B41E1E;
+}
+
+h1 {
+    color: black;
+}
+
+p {
+    font-size: 20px;
+}
